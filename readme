@@ -1,0 +1,6 @@
+1. "build_old" contains old html files converted from "source"
+2. Now, we need to build the html files again based on upated "source"
+
+0. sphinx-quickstart
+1.  make html
+ 
